@@ -8,5 +8,3 @@
 trojend/trojend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-selam ben trojend aslında gerçekte 12 yaşındaki bir çocuğum siber güvenliğe ilgim var githubı daha önceden keşfediyordum fakat hesap açma gereksiniminde bulunmamıştım
-yaptığım eserleri paylaşmak için bu github hesabını açıyorum iletişim için instagram adresim:https://www.instagram.com/em1r.srt/
